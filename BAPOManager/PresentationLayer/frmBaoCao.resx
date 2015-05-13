@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAICAAAAEAIAAoEAAAFgAAACgAAAAgAAAAQAAAAAEAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIwAAADkAAAA7AAAAOgAAADoAAAA6AAAAOgAA
+        ADoAAAA6AAAAOgAAADoAAAA6AAAAOgAAADoAAAA6AAAAOgAAADoAAAA6AAAAOgAAADsAAAA5AAAAIwAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwcAJQgIUpsDA2neBARw8QUFf/IFBXrxBARx8QUF
+        gPEFBXjxBAR08QUFgfEEBHPxBQV88QUFefEEBHXxBQWB8QQEcvEFBXvxBQV78QQEcPEFBX3xBQV+8gQE
+        b/EDA23fCAhUnQcHACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgGBmbPBwen/wYGpf8FBZT/Bgac/wcH
+        p/8FBZf/Bgaf/wcHpP8GBpj/Bwen/wYGm/8HB6P/Bweg/wUFnf8HB6X/BgaY/wcHpv8GBpv/BgaZ/wcH
+        p/8GBpn/BQWV/wYGp/8HB6X/AgJl0QAAACoAAAAAAAAAAAAAAAAAAAAFBwdrsAUFnf8FBZT/Bwem/wcH
+        o/8GBpf/Bwel/wcHpP8GBpv/Bwep/wYGnv8HB6f/Bgai/wYGpv8GBqT/Bgak/wcHpf8GBqD/Bwep/wYG
+        m/8HB6f/Bwei/wYGl/8HB6b/Bwek/wUFkv8GBp7/BwdvswAAAAYAAAAAAAAAAAkJMjgHB5r8Bgal/wYG
+        mf8GBqD/Bweu/wYGpP8GBqH/Bwev/wYGpP8HB6v/AgKm/wAApv8AAKb/AACo/wAApv8AAKj/AACk/wMD
+        qf8GBqn/Bgam/wcHrv8GBqD/Bgao/wcHrf8GBp7/Bgac/wYGpv8HB5z9BAQ1OgAAAAAAAAAABQViYAYG
+        oP8HB6j/CAis/wcHov8HB6b/CAix/wcHp/8ICKz/AgKr/wAAqP8KCr//OjrP/2Zl3/99feP/fX3i/2Zm
+        3/87Os//CwvA/wAAqP8CAq7/Bweq/wcHqv8ICLH/Bwek/wcHpP8ICK7/Bwen/wYGn/8FBWRjAAAAAAAA
+        AAAFBXdnBgaj/wYGnv8ICK7/CAiy/wcHp/8ICKz/CAiz/wAAp/8QEMT/ennm/9fW/v//////////////
+        ///////////////////X1/7/enrn/xAQw/8AAKj/CAi1/wcHqv8HB6n/CAiz/wgIrP8GBp3/Bgam/wUF
+        fWwAAAAAAAAAAAUFhWYHB7b/Bwem/wcHpv8HB7D/CAi2/wcHrP8AALD/QUHZ/9fX/f//////////////
+        ////////////////////////////////////////19b9/0FA2v8AAK7/Bweu/wgIt/8HB67/Bwen/wcH
+        qP8HB7f/BQWIawAAAAAAAAAABQV7ZgcHs/8ICLP/CAi0/wcHrv8HB7H/AAC3/1FR3v/5+f//////////
+        ////////////////////////////////////////////////////////+fn//1BQ3/8AALj/Bwew/wcH
+        sP8ICLb/CAiz/wcHsf8FBX5rAAAAAAAAAAAFBX1mBgav/wcHqv8ICLb/CQm8/wAAs/8yMtT/9vb/////
+        //////////////////////v/8/Pm/9vb2//e3tz/+fnq////////////////////////////9fX//zEx
+        0/8AALX/CQm8/wgItf8HB6r/Bgax/wUFg2sAAAAAAAAAAAUFimYICMH/CQm0/wgItP8FBbT/BgbG/8jI
+        +v//////////////////////9vbp/5KSyf8+PsP/ISHG/yQkxf9MS8T/rq7P////8///////////////
+        ////////xsb6/wYFxf8FBbT/CAi2/wkJtv8ICML/BweNawAAAAAAAAAABQWCZgcHu/8ICLj/CQnA/wAA
+        vf9SUt3///////////////////////Hx6P9VVcj/AADN/wAAzv8DA83/AwPN/wAAz/8EBMz/hobO////
+        9f//////////////////////UE/d/wAAvv8JCcD/CAi4/wcHu/8FBYVrAAAAAAAAAAAFBYxmBwfC/wgI
+        t/8HB7v/AADD/6mo8P////////////////////f/bm3S/wAA0P8ICM7/CwvQ/wsL0P8LC9H/CwvP/wQE
+        z/8BAdD/srLd//////////////////////+mpvD/AADC/wgIu/8ICLf/BwfD/wUFkWsAAAAAAAAAAAgI
+        kWYJCcv/CQnC/wYGxP8PD8//29v2/////////////////9LS6f8MDNP/BwfR/wwM0/8MDNP/DAzU/wwM
+        1P8MDNP/DAzT/wAA0v9JSdn//v74/////////////////9fX9f8NDc//BwfF/wkJwv8JCcz/CQmVbAAA
+        AAAAAAAACAiPZgoKyP8KCr//BATD/yQj0//v7/n/////////////////kJDl/wAA1P8ODtX/Dg7W/w4O
+        1/8PD9f/Dw/Y/w4O1/8ODtf/BwfU/x4e2v/q6fX/////////////////5eX2/xkZ0f8GBsP/CgrA/woK
+        yf8JCZJsAAAAAAAAAAAICJlmDAzW/wwMyv8GBs3/KCjX//Dw9v///////////////v9ycub/AADX/xAQ
+        2P8QENn/EBDa/xAQ2/8QENv/EBDb/xAQ2f8LC9f/Ghrd/+Xk+P/////////////////l5fb/GhrW/wkJ
+        zf8MDMv/DAzX/wkJnGwAAAAAAAAAAAgImWYMDNT/DAzJ/wcHzP8eHdX/5eXy///////////////+/3R0
+        6/8AANn/ERHb/xER3P8REdz/ERHd/xER3f8REd3/ERHc/wcH2f8uLeT/9/f9/////////////////+Dg
+        8/8YGNb/CQnM/wwMyf8MDNX/DAyebAAAAAAAAAAACgqbZg4O3P8ODtL/Dg7V/wsK2P/BwOj/////////
+        ////////lZTx/wAA3f8TE93/ExPe/xMT3/8TE9//ExPf/xMT3/8TE97/AADc/3h38v//////////////
+        ////////vr7o/woK2f8ODtX/Dw/S/w4O3f8MDJ1tAAAAAAAAAAAKCptmEBDf/xAQ0v8SEtX/AgLZ/39/
+        3f////z////////////T0/r/ERHj/xMT3/8XF+H/Fxfh/xYW4v8WFuH/EhLg/wAA3/85OO3/7Ov+////
+        ////////////////+/97e93/AgLZ/xIS1f8REdP/ERHg/w4On20AAAAAAAAAAA0Nm2YREeH/ExPY/xUV
+        3f8NDd//LS3a/+rq6P////////////////9XVu//Bgbh/xkZ4/8ZGeP/GRnk/xYW5f8dHer/Zmb1/+no
+        ////////////////////////5+fn/yoq2/8ODt//FRXd/xMT2P8SEuL/Dg6fbQAAAAAAAAAADw+eZhQU
+        6v8UFN3/FRXd/xYW3f8ICOP/e3vX////9P///////////9XU/P8ZGer/EhLj/xsb5v8REeX/Pz/p/+Pj
+        /P//////////////////////////////8/93d9j/CAji/xYW3f8WFt7/FRXe/xUV6/8QEKFtAAAAAAAA
+        AAAPD55mFBTp/xQU3f8XF+L/GRnk/xQU4/8UFOL/qKjV////9v///////////66u+/8REev/ERHl/xQU
+        5/84N+b/+Pjw//////////////////////////b/paTV/xMT4/8WFuT/Ghrk/xcX4f8UFN3/FBTr/xMT
+        oW0AAAAAAAAAAA8PnmYZGe//HBzl/xwc5/8aGuX/HBzk/xcX6v8fH+T/oqLS////7P///////////7i4
+        /f8uLvH/DAzp/w4N6v+Tktz////z///////////////s/6Cf0v8eHuT/GBjq/xwc5P8bG+X/HBzn/xsb
+        5f8ZGe//ExOhbQAAAAAAAAAAFBSgZh0d9f8cHOb/HBzl/x4e6P8hIer/Hx/n/xkZ6/8cHOn/cXDT/9XU
+        2P///+3////9//Hx//+MjP3/PDz3/yYm7/+end//8vLj/9fX2P9wcNP/Gxvq/xkZ6/8gIOj/IiLq/x4e
+        5/8cHOX/HR3n/x4e9f8XF6VuAAAAAAAAAAAUFKNmGxv0/xwc6P8hIev/IyPt/x4e6v8hIev/JCTt/x0d
+        6/8WFvH/Ly/j/3Bv1f+op9T/09PZ/+zr3v/T093/lZXa/1pZ3f9RUNz/MzPi/xYW8P8eHuz/JSXt/yAg
+        6v8gIOr/IyPt/yEh6/8cHOf/HBz2/xgYqWsAAAAAAAAAACYmq1giIvn/ICDt/yQk7/8hIe3/ISHs/yYm
+        7/8iIu3/IyPu/yUl7/8dHfD/GRnz/x0d7v8uLuf/Ojnj/z4+4/86Ouj/KSnt/x0d8/8cHPD/Jibv/yMi
+        7v8jI+7/Jibv/yAg7P8hIe3/JCTv/yAg7f8hIfn/JCSuWwAAAAAAAAAAOjp7Hyws6fQfH/j/ICDt/yEh
+        7/8nJ/H/JCTw/yIi7/8oKPH/IyPv/yYm8f8mJvD/JSXw/yIi8v8gIPP/Hx/z/yMj8v8kJPD/Jyfw/yYm
+        8P8lJfD/Jyfx/yIi7v8lJfD/Jibw/yEh7v8gIO7/ICD3/yws6vY6OnwjAAAAAAAAAAAAAAAAQ0PSgi0t
+        //8cHPL/Jibx/ycn8v8jI/D/Jyfy/ycn8v8kJPD/KSny/yUl8P8oKPL/Jibx/ygo8v8nJ/L/Jyfy/ycn
+        8v8mJvH/KSny/yQk8P8oKPL/Jibx/yMj8P8oKPL/Jibx/xwc8v8tLf//RUXThgAAAAAAAAAAAAAAAAAA
+        AAD//wACTk7ilzo6//8rK///JCT//yUl//8pKf//JCT//yYm//8oKP//JCT//ykp//8lJf//KCj//yYm
+        //8mJv//KCj//yQk//8pKf//JSX//yUl//8pKf//JCT//yQk//8rK///OTn//01N45v//wADAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAbm7dSlJS7KRERPHCQUHrw0FB78NBQevDQUHvw0FB78NBQevDQUHvw0FB
+        68NBQe/DQUHvw0FB68NBQe/DQUHrw0FB78NBQe/DQUHrw0FB78NBQevDRETxwlJS76Rra91MAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAA
+</value>
+  </data>
+</root>

@@ -1,0 +1,101 @@
+All rights reserved by Lars Schenk, Gorch-Fock-Str. 39, 23669 Timmendorfer Strand, Germany
+
+400/01 - BARCODE.OCX ActiveBarcode V4.xx License for one CPU
+
+Copyright (c) 1996-00 by Lars Schenk & Frank Horn
+
+http://www.activebarcode.com
+
+ACTIVEBARCODE ONE USER LICENSE IS REGISTERED FOR:
+NAME   : Zac Dac
+COMPANY: Serials 2000
+EMAIL  : ZacDac@serials2000.org
+ADDRESS: 1
+CITY   : 1
+COUNTRY: 1
+
+*************************************************************************
+Warning:  This product is licensed to you pursuant to the terms of the
+license agreement available at http://www.sharedirect.com/licence.htm
+German license agreement is at http://www.sharedirect.com/licenced.htm
+
+It is protected by copyright law and international treaties.  Unauthorized
+reproduction or distribution may result in severe civil and criminal
+penalties, and will be prosecuted to the maximum extent possible under
+the law.
+*************************************************************************
+
+HOW TO USE THE LIC FILE:
+
+Q: How can developers use your the ActiveBarcode control?
+Once you have the lic-file, your development tool (like Visual Basic) 
+is able to build applications containing the ActiveBarcode control. 
+You only have to give your EXE-file and the OCX-Control away to 
+your customers. The LIC-file remains on your pc in every case. 
+You are not allowed to give away the LIC-file to others! 
+On the customers side the control without the LIC-file 
+reacts like a not registered shareware version but 
+if your EXE-File uses it, there are no nag screens in 
+the control (your EXE-files handle the control as 
+if there is a LIC-file on the customers pc).
+
+Q: How to use the LIC-file?
+After you have purchased ActiveBarcode you will get 
+a barcode.lic file from us. Copy this lic file to the 
+folder where the barcode.ocx is installed. 
+This is normaly your windows\system folder or 
+on Win NT the windows\system32 folder. 
+If barcode.lic is installed to this folder the 
+shareware nag screens will disapear! 
+Do NOT give away this lic file because you 
+are not allowed to give away the LIC-file to others! 
+There is no need to give this lic file to third parties. 
+
+For developers who create EXE files: 
+With the lic file on your computer you can compile programs 
+using the barcode.ocx on the customers computer as if he has the 
+lic file. Your exe "knows" that the lic file was on your computer 
+when you compiled your program - so the customer doesn´t need the 
+lic file.You can give ActiveBarcode WITHOUT the lic file to 
+the customer. When he uses ActiveBarcode from your exe program 
+he will not see shareware screens. But if he uses ActiveBarcode 
+from another program than yours, he sees the shareware screens 
+because he has no lic file. You see: You only have to install 
+the lic file to YOUR computer!
+
+For developers who can´t create EXE files: If you use a 
+development tool that can´t create EXE files like VBA
+or if you develope an Internet/Intranet solution, you 
+have to order a license (in form of a LIC-file) 
+for each PC on witch ActiveBarcode will run. 
+Therefore we have the multi-user-licenses:
+01 License: $169
+05 Licenses: $349
+10 Licenses: $469
+20 Licenses: $699 
+50 Licenses: $1199
+Ask for further packages.
+
+Q: I´ve purchased the lic-file and used it for a while. 
+Now there is a new version available - what is the price 
+for an update and what is to do in order to use the new version?
+a) Major updates: These updates have new barcode-types and improved 
+functionalty and are identified by the new number befor 
+the point in the version number (for examples from 3.x to 4.0). 
+With these major updates there comes a new LIC-files that 
+you can purchase for reasonable update conditions.
+b) Minor updates: These updates were free for you - you don´t 
+have to pay anything for them. You can just download the latest 
+version and install it. The update will verify your LIC-file 
+even if it has an older date. These minor updates have sometimes 
+new functions or just some bugs fixed and are identified by a 
+added number behind the version point (for example 3.00 to 3.10). 
+This way to distribute minor updates allows you to have allways 
+the latest version in use without paying each update or spend 
+much time in purchasing updates: just donwnload and install it. 
+
+For questions mailto:barcode@sharedirect.com
+
+For further infos visit us at http://www.sharedirect.com
+
+Lars Schenk

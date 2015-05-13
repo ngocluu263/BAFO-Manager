@@ -1,0 +1,2 @@
+- chay Caibarcode_2005.bat
+- add Code128Fonts vao control panel -> fonts  

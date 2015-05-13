@@ -1,0 +1,183 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="PhieuXuatTheoNgay" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="PhieuXuatTheoNgay">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MaPhieuXuat" type="xs:string" minOccurs="0" />
+                <xs:element name="NgayXuat" type="xs:string" minOccurs="0" />
+                <xs:element name="GhiChu" type="xs:string" minOccurs="0" />
+                <xs:element name="MaKhachHang" type="xs:string" minOccurs="0" />
+                <xs:element name="HoTenKH" type="xs:string" minOccurs="0" />
+                <xs:element name="MaSanPham" type="xs:string" minOccurs="0" />
+                <xs:element name="TenSP" type="xs:string" minOccurs="0" />
+                <xs:element name="DonViTinh" type="xs:string" minOccurs="0" />
+                <xs:element name="SoLuongXuat" type="xs:int" minOccurs="0" />
+                <xs:element name="DonGiaXuat" type="xs:int" minOccurs="0" />
+                <xs:element name="DiaChi" type="xs:string" minOccurs="0" />
+                <xs:element name="SDT" type="xs:string" minOccurs="0" />
+                <xs:element name="LoaiTien" type="xs:string" minOccurs="0" />
+                <xs:element name="TungayDenngay" type="xs:string" minOccurs="0" />
+                <xs:element name="MaLoaiSP" type="xs:string" minOccurs="0" />
+                <xs:element name="TenLoaiSP" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <PhieuXuatTheoNgay>
+    <MaPhieuXuat>PHIEUXUAT001</MaPhieuXuat>
+    <NgayXuat>02/02/2015 9:42:21 PM</NgayXuat>
+    <GhiChu />
+    <MaKhachHang>KH001</MaKhachHang>
+    <HoTenKH>[Khách hàng]</HoTenKH>
+    <MaSanPham>MASPM00011</MaSanPham>
+    <TenSP>Nước hoa Romane 2</TenSP>
+    <DonViTinh>Cái</DonViTinh>
+    <SoLuongXuat>30</SoLuongXuat>
+    <DonGiaXuat>700000</DonGiaXuat>
+    <TungayDenngay>Từ 14/01/2015 đến 14/04/2015</TungayDenngay>
+    <MaLoaiSP>1</MaLoaiSP>
+    <TenLoaiSP>Quần áo</TenLoaiSP>
+  </PhieuXuatTheoNgay>
+  <PhieuXuatTheoNgay>
+    <MaPhieuXuat>PHIEUXUAT001</MaPhieuXuat>
+    <NgayXuat>02/02/2015 9:42:21 PM</NgayXuat>
+    <GhiChu />
+    <MaKhachHang>KH001</MaKhachHang>
+    <HoTenKH>[Khách hàng]</HoTenKH>
+    <MaSanPham>MASPM0003</MaSanPham>
+    <TenSP>Áo Kaki Việt Nam</TenSP>
+    <DonViTinh>Hộp</DonViTinh>
+    <SoLuongXuat>60</SoLuongXuat>
+    <DonGiaXuat>699999</DonGiaXuat>
+    <TungayDenngay>Từ 14/01/2015 đến 14/04/2015</TungayDenngay>
+    <MaLoaiSP>1</MaLoaiSP>
+    <TenLoaiSP>Quần áo</TenLoaiSP>
+  </PhieuXuatTheoNgay>
+  <PhieuXuatTheoNgay>
+    <MaPhieuXuat>PHIEUXUAT001</MaPhieuXuat>
+    <NgayXuat>02/02/2015 9:42:21 PM</NgayXuat>
+    <GhiChu />
+    <MaKhachHang>KH001</MaKhachHang>
+    <HoTenKH>[Khách hàng]</HoTenKH>
+    <MaSanPham>MASPM00031</MaSanPham>
+    <TenSP>Áo Kaki Việt Nam 2</TenSP>
+    <DonViTinh>Hộp</DonViTinh>
+    <SoLuongXuat>40</SoLuongXuat>
+    <DonGiaXuat>300000</DonGiaXuat>
+    <TungayDenngay>Từ 14/01/2015 đến 14/04/2015</TungayDenngay>
+    <MaLoaiSP>1</MaLoaiSP>
+    <TenLoaiSP>Quần áo</TenLoaiSP>
+  </PhieuXuatTheoNgay>
+  <PhieuXuatTheoNgay>
+    <MaPhieuXuat>PHIEUXUAT002</MaPhieuXuat>
+    <NgayXuat>02/02/2015 9:43:07 PM</NgayXuat>
+    <GhiChu />
+    <MaKhachHang>KH001</MaKhachHang>
+    <HoTenKH>[Khách hàng]</HoTenKH>
+    <MaSanPham>KT3004HS4</MaSanPham>
+    <TenSP>Giày Vina DT2</TenSP>
+    <DonViTinh>Đôi</DonViTinh>
+    <SoLuongXuat>200</SoLuongXuat>
+    <DonGiaXuat>90000</DonGiaXuat>
+    <TungayDenngay>Từ 14/01/2015 đến 14/04/2015</TungayDenngay>
+    <MaLoaiSP>1</MaLoaiSP>
+    <TenLoaiSP>Quần áo</TenLoaiSP>
+  </PhieuXuatTheoNgay>
+  <PhieuXuatTheoNgay>
+    <MaPhieuXuat>PHIEUXUAT002</MaPhieuXuat>
+    <NgayXuat>02/02/2015 9:43:07 PM</NgayXuat>
+    <GhiChu />
+    <MaKhachHang>KH001</MaKhachHang>
+    <HoTenKH>[Khách hàng]</HoTenKH>
+    <MaSanPham>MASPM0003</MaSanPham>
+    <TenSP>Áo Kaki Việt Nam</TenSP>
+    <DonViTinh>Hộp</DonViTinh>
+    <SoLuongXuat>40</SoLuongXuat>
+    <DonGiaXuat>40000</DonGiaXuat>
+    <TungayDenngay>Từ 14/01/2015 đến 14/04/2015</TungayDenngay>
+    <MaLoaiSP>1</MaLoaiSP>
+    <TenLoaiSP>Quần áo</TenLoaiSP>
+  </PhieuXuatTheoNgay>
+  <PhieuXuatTheoNgay>
+    <MaPhieuXuat>PHIEUXUAT002</MaPhieuXuat>
+    <NgayXuat>02/02/2015 9:43:07 PM</NgayXuat>
+    <GhiChu />
+    <MaKhachHang>KH001</MaKhachHang>
+    <HoTenKH>[Khách hàng]</HoTenKH>
+    <MaSanPham>SPP3</MaSanPham>
+    <TenSP>Coca</TenSP>
+    <DonViTinh>Cây</DonViTinh>
+    <SoLuongXuat>30</SoLuongXuat>
+    <DonGiaXuat>60000</DonGiaXuat>
+    <TungayDenngay>Từ 14/01/2015 đến 14/04/2015</TungayDenngay>
+    <MaLoaiSP>3</MaLoaiSP>
+    <TenLoaiSP>Nước</TenLoaiSP>
+  </PhieuXuatTheoNgay>
+  <PhieuXuatTheoNgay>
+    <MaPhieuXuat>XP003</MaPhieuXuat>
+    <NgayXuat>08/03/2015 8:11:11 PM</NgayXuat>
+    <GhiChu />
+    <MaKhachHang>KH001</MaKhachHang>
+    <HoTenKH>[Khách hàng]</HoTenKH>
+    <MaSanPham>MASPM00011</MaSanPham>
+    <TenSP>Nước hoa Romane 2</TenSP>
+    <DonViTinh>Cái</DonViTinh>
+    <SoLuongXuat>10</SoLuongXuat>
+    <DonGiaXuat>50000</DonGiaXuat>
+    <TungayDenngay>Từ 14/01/2015 đến 14/04/2015</TungayDenngay>
+    <MaLoaiSP>1</MaLoaiSP>
+    <TenLoaiSP>Quần áo</TenLoaiSP>
+  </PhieuXuatTheoNgay>
+  <PhieuXuatTheoNgay>
+    <MaPhieuXuat>XP003</MaPhieuXuat>
+    <NgayXuat>08/03/2015 8:11:11 PM</NgayXuat>
+    <GhiChu />
+    <MaKhachHang>KH001</MaKhachHang>
+    <HoTenKH>[Khách hàng]</HoTenKH>
+    <MaSanPham>SPP3</MaSanPham>
+    <TenSP>Coca</TenSP>
+    <DonViTinh>Cây</DonViTinh>
+    <SoLuongXuat>15</SoLuongXuat>
+    <DonGiaXuat>6000</DonGiaXuat>
+    <TungayDenngay>Từ 14/01/2015 đến 14/04/2015</TungayDenngay>
+    <MaLoaiSP>3</MaLoaiSP>
+    <TenLoaiSP>Nước</TenLoaiSP>
+  </PhieuXuatTheoNgay>
+  <PhieuXuatTheoNgay>
+    <MaPhieuXuat>R43534534</MaPhieuXuat>
+    <NgayXuat>30/03/2015 8:22:27 PM</NgayXuat>
+    <GhiChu />
+    <MaKhachHang>KH001</MaKhachHang>
+    <HoTenKH>[Khách hàng]</HoTenKH>
+    <MaSanPham>KT3001HS19</MaSanPham>
+    <TenSP>Giầy Nike ACE 2</TenSP>
+    <DonViTinh>Đôi</DonViTinh>
+    <SoLuongXuat>20</SoLuongXuat>
+    <DonGiaXuat>3000</DonGiaXuat>
+    <TungayDenngay>Từ 14/01/2015 đến 14/04/2015</TungayDenngay>
+    <MaLoaiSP>1</MaLoaiSP>
+    <TenLoaiSP>Quần áo</TenLoaiSP>
+  </PhieuXuatTheoNgay>
+  <PhieuXuatTheoNgay>
+    <MaPhieuXuat>R43534534</MaPhieuXuat>
+    <NgayXuat>30/03/2015 8:22:27 PM</NgayXuat>
+    <GhiChu />
+    <MaKhachHang>KH001</MaKhachHang>
+    <HoTenKH>[Khách hàng]</HoTenKH>
+    <MaSanPham>SPP3</MaSanPham>
+    <TenSP>Coca</TenSP>
+    <DonViTinh>Cây</DonViTinh>
+    <SoLuongXuat>1</SoLuongXuat>
+    <DonGiaXuat>200</DonGiaXuat>
+    <TungayDenngay>Từ 14/01/2015 đến 14/04/2015</TungayDenngay>
+    <MaLoaiSP>3</MaLoaiSP>
+    <TenLoaiSP>Nước</TenLoaiSP>
+  </PhieuXuatTheoNgay>
+</NewDataSet>

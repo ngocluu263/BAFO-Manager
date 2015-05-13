@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="PhieuXuatChiTiet" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="PhieuXuatChiTiet">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MaPhieuXuat" type="xs:string" minOccurs="0" />
+                <xs:element name="NgayXuat" type="xs:string" minOccurs="0" />
+                <xs:element name="GhiChu" type="xs:string" minOccurs="0" />
+                <xs:element name="MaKhachHang" type="xs:string" minOccurs="0" />
+                <xs:element name="HoTenKH" type="xs:string" minOccurs="0" />
+                <xs:element name="MaSanPham" type="xs:string" minOccurs="0" />
+                <xs:element name="TenSP" type="xs:string" minOccurs="0" />
+                <xs:element name="DonViTinh" type="xs:string" minOccurs="0" />
+                <xs:element name="SoLuongXuat" type="xs:int" minOccurs="0" />
+                <xs:element name="DonGiaXuat" type="xs:int" minOccurs="0" />
+                <xs:element name="DiaChi" type="xs:string" minOccurs="0" />
+                <xs:element name="SDT" type="xs:string" minOccurs="0" />
+                <xs:element name="HoTenNV" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <PhieuXuatChiTiet>
+    <MaPhieuXuat>1</MaPhieuXuat>
+    <NgayXuat>15/01/2015 9:58:42 AM</NgayXuat>
+    <GhiChu />
+    <MaKhachHang>KH001</MaKhachHang>
+    <HoTenKH>[Khách hàng]</HoTenKH>
+    <MaSanPham>KT3001HS19</MaSanPham>
+    <TenSP>Giầy Nike ACE 2</TenSP>
+    <DonViTinh>Đôi</DonViTinh>
+    <SoLuongXuat>10</SoLuongXuat>
+    <DonGiaXuat>12000000</DonGiaXuat>
+    <HoTenNV>Trương Minh Bảo</HoTenNV>
+  </PhieuXuatChiTiet>
+  <PhieuXuatChiTiet>
+    <MaPhieuXuat>1</MaPhieuXuat>
+    <NgayXuat>15/01/2015 9:58:42 AM</NgayXuat>
+    <GhiChu />
+    <MaKhachHang>KH001</MaKhachHang>
+    <HoTenKH>[Khách hàng]</HoTenKH>
+    <MaSanPham>MASPM00021</MaSanPham>
+    <TenSP>Áo Kaki Trung Quốc 2</TenSP>
+    <DonViTinh>Chiếc</DonViTinh>
+    <SoLuongXuat>15</SoLuongXuat>
+    <DonGiaXuat>800000</DonGiaXuat>
+    <HoTenNV>Trương Minh Bảo</HoTenNV>
+  </PhieuXuatChiTiet>
+</NewDataSet>

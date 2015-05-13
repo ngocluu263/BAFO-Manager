@@ -1,0 +1,191 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="PhieuNhapTheoNgay" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="PhieuNhapTheoNgay">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MaPhieuNhap" type="xs:string" minOccurs="0" />
+                <xs:element name="NgayNhap" type="xs:string" minOccurs="0" />
+                <xs:element name="GhiChu" type="xs:string" minOccurs="0" />
+                <xs:element name="MaNCC" type="xs:string" minOccurs="0" />
+                <xs:element name="TenNCC" type="xs:string" minOccurs="0" />
+                <xs:element name="MaSanPham" type="xs:string" minOccurs="0" />
+                <xs:element name="TenSP" type="xs:string" minOccurs="0" />
+                <xs:element name="DonViTinh" type="xs:string" minOccurs="0" />
+                <xs:element name="SoLuongNhap" type="xs:int" minOccurs="0" />
+                <xs:element name="DonGiaNhap" type="xs:int" minOccurs="0" />
+                <xs:element name="DiaChi" type="xs:string" minOccurs="0" />
+                <xs:element name="DienThoai" type="xs:string" minOccurs="0" />
+                <xs:element name="Fax" type="xs:string" minOccurs="0" />
+                <xs:element name="TungayDenngay" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <PhieuNhapTheoNgay>
+    <MaPhieuNhap>456</MaPhieuNhap>
+    <NgayNhap>30/03/2015 9:09:53 PM</NgayNhap>
+    <GhiChu />
+    <MaNCC>3</MaNCC>
+    <TenNCC>Block Canet tea one</TenNCC>
+    <MaSanPham>MASPM0004</MaSanPham>
+    <TenSP>Áo Kaki IS</TenSP>
+    <DonViTinh>Thùng</DonViTinh>
+    <SoLuongNhap>90</SoLuongNhap>
+    <DonGiaNhap>9000</DonGiaNhap>
+    <DiaChi>123456</DiaChi>
+    <DienThoai>123</DienThoai>
+    <Fax />
+    <TungayDenngay>Từ 18/01/2015 đến 18/04/2015</TungayDenngay>
+  </PhieuNhapTheoNgay>
+  <PhieuNhapTheoNgay>
+    <MaPhieuNhap>E3RR</MaPhieuNhap>
+    <NgayNhap>30/03/2015 9:04:55 PM</NgayNhap>
+    <GhiChu />
+    <MaNCC>3</MaNCC>
+    <TenNCC>Block Canet tea one</TenNCC>
+    <MaSanPham>KT3002HS2</MaSanPham>
+    <TenSP>Giày Vina DT2</TenSP>
+    <DonViTinh>Đôi</DonViTinh>
+    <SoLuongNhap>45</SoLuongNhap>
+    <DonGiaNhap>789</DonGiaNhap>
+    <DiaChi>123456</DiaChi>
+    <DienThoai>123</DienThoai>
+    <Fax />
+    <TungayDenngay>Từ 18/01/2015 đến 18/04/2015</TungayDenngay>
+  </PhieuNhapTheoNgay>
+  <PhieuNhapTheoNgay>
+    <MaPhieuNhap>E3RR</MaPhieuNhap>
+    <NgayNhap>30/03/2015 9:04:55 PM</NgayNhap>
+    <GhiChu />
+    <MaNCC>3</MaNCC>
+    <TenNCC>Block Canet tea one</TenNCC>
+    <MaSanPham>KT3003HS37</MaSanPham>
+    <TenSP>Giầy Dortor Thanh 2</TenSP>
+    <DonViTinh>Đôi</DonViTinh>
+    <SoLuongNhap>567</SoLuongNhap>
+    <DonGiaNhap>88</DonGiaNhap>
+    <DiaChi>123456</DiaChi>
+    <DienThoai>123</DienThoai>
+    <Fax />
+    <TungayDenngay>Từ 18/01/2015 đến 18/04/2015</TungayDenngay>
+  </PhieuNhapTheoNgay>
+  <PhieuNhapTheoNgay>
+    <MaPhieuNhap>PHIEUNHAP002</MaPhieuNhap>
+    <NgayNhap>02/02/2015 9:34:28 PM</NgayNhap>
+    <GhiChu />
+    <MaNCC>3</MaNCC>
+    <TenNCC>Block Canet tea one</TenNCC>
+    <MaSanPham>KT3004HS4</MaSanPham>
+    <TenSP>Giày Vina DT2</TenSP>
+    <DonViTinh>Đôi</DonViTinh>
+    <SoLuongNhap>200</SoLuongNhap>
+    <DonGiaNhap>400000</DonGiaNhap>
+    <DiaChi>123456</DiaChi>
+    <DienThoai>123</DienThoai>
+    <Fax />
+    <TungayDenngay>Từ 18/01/2015 đến 18/04/2015</TungayDenngay>
+  </PhieuNhapTheoNgay>
+  <PhieuNhapTheoNgay>
+    <MaPhieuNhap>PHIEUNHAP002</MaPhieuNhap>
+    <NgayNhap>02/02/2015 9:34:28 PM</NgayNhap>
+    <GhiChu />
+    <MaNCC>3</MaNCC>
+    <TenNCC>Block Canet tea one</TenNCC>
+    <MaSanPham>KT3004HS46</MaSanPham>
+    <TenSP>Giày Vina DT2 2</TenSP>
+    <DonViTinh>Đôi</DonViTinh>
+    <SoLuongNhap>100</SoLuongNhap>
+    <DonGiaNhap>400000</DonGiaNhap>
+    <DiaChi>123456</DiaChi>
+    <DienThoai>123</DienThoai>
+    <Fax />
+    <TungayDenngay>Từ 18/01/2015 đến 18/04/2015</TungayDenngay>
+  </PhieuNhapTheoNgay>
+  <PhieuNhapTheoNgay>
+    <MaPhieuNhap>PHIEUNHAP002</MaPhieuNhap>
+    <NgayNhap>02/02/2015 9:34:28 PM</NgayNhap>
+    <GhiChu />
+    <MaNCC>3</MaNCC>
+    <TenNCC>Block Canet tea one</TenNCC>
+    <MaSanPham>MASPM00021</MaSanPham>
+    <TenSP>Áo Kaki Trung Quốc 2</TenSP>
+    <DonViTinh>Chiếc</DonViTinh>
+    <SoLuongNhap>100</SoLuongNhap>
+    <DonGiaNhap>5000</DonGiaNhap>
+    <DiaChi>123456</DiaChi>
+    <DienThoai>123</DienThoai>
+    <Fax />
+    <TungayDenngay>Từ 18/01/2015 đến 18/04/2015</TungayDenngay>
+  </PhieuNhapTheoNgay>
+  <PhieuNhapTheoNgay>
+    <MaPhieuNhap>PHIEUNHAP002</MaPhieuNhap>
+    <NgayNhap>02/02/2015 9:34:28 PM</NgayNhap>
+    <GhiChu />
+    <MaNCC>3</MaNCC>
+    <TenNCC>Block Canet tea one</TenNCC>
+    <MaSanPham>MASPM0003</MaSanPham>
+    <TenSP>Áo Kaki Việt Nam</TenSP>
+    <DonViTinh>Hộp</DonViTinh>
+    <SoLuongNhap>100</SoLuongNhap>
+    <DonGiaNhap>600000</DonGiaNhap>
+    <DiaChi>123456</DiaChi>
+    <DienThoai>123</DienThoai>
+    <Fax />
+    <TungayDenngay>Từ 18/01/2015 đến 18/04/2015</TungayDenngay>
+  </PhieuNhapTheoNgay>
+  <PhieuNhapTheoNgay>
+    <MaPhieuNhap>PHIEUNHAP003</MaPhieuNhap>
+    <NgayNhap>02/02/2015 9:41:54 PM</NgayNhap>
+    <GhiChu />
+    <MaNCC>4</MaNCC>
+    <TenNCC>Reiurt</TenNCC>
+    <MaSanPham>MASPM00031</MaSanPham>
+    <TenSP>Áo Kaki Việt Nam 2</TenSP>
+    <DonViTinh>Hộp</DonViTinh>
+    <SoLuongNhap>5000</SoLuongNhap>
+    <DonGiaNhap>500000</DonGiaNhap>
+    <DiaChi>123</DiaChi>
+    <DienThoai>123456</DienThoai>
+    <Fax />
+    <TungayDenngay>Từ 18/01/2015 đến 18/04/2015</TungayDenngay>
+  </PhieuNhapTheoNgay>
+  <PhieuNhapTheoNgay>
+    <MaPhieuNhap>PHIEUNHAP003</MaPhieuNhap>
+    <NgayNhap>02/02/2015 9:41:54 PM</NgayNhap>
+    <GhiChu />
+    <MaNCC>4</MaNCC>
+    <TenNCC>Reiurt</TenNCC>
+    <MaSanPham>SPP3</MaSanPham>
+    <TenSP>Coca</TenSP>
+    <DonViTinh>Cây</DonViTinh>
+    <SoLuongNhap>500</SoLuongNhap>
+    <DonGiaNhap>77999</DonGiaNhap>
+    <DiaChi>123</DiaChi>
+    <DienThoai>123456</DienThoai>
+    <Fax />
+    <TungayDenngay>Từ 18/01/2015 đến 18/04/2015</TungayDenngay>
+  </PhieuNhapTheoNgay>
+  <PhieuNhapTheoNgay>
+    <MaPhieuNhap>WE323</MaPhieuNhap>
+    <NgayNhap>30/03/2015 8:18:43 PM</NgayNhap>
+    <GhiChu />
+    <MaNCC>3</MaNCC>
+    <TenNCC>Block Canet tea one</TenNCC>
+    <MaSanPham>KT3003HS3</MaSanPham>
+    <TenSP>Giầy Dortor Thanh</TenSP>
+    <DonViTinh>Đôi</DonViTinh>
+    <SoLuongNhap>100</SoLuongNhap>
+    <DonGiaNhap>400000</DonGiaNhap>
+    <DiaChi>123456</DiaChi>
+    <DienThoai>123</DienThoai>
+    <Fax />
+    <TungayDenngay>Từ 18/01/2015 đến 18/04/2015</TungayDenngay>
+  </PhieuNhapTheoNgay>
+</NewDataSet>

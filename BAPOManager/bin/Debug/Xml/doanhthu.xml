@@ -1,0 +1,100 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="DoanhThu" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="DoanhThu">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MaPhieuXuat" type="xs:string" minOccurs="0" />
+                <xs:element name="NgayXuat" type="xs:string" minOccurs="0" />
+                <xs:element name="MaSanPham" type="xs:string" minOccurs="0" />
+                <xs:element name="TenSP" type="xs:string" minOccurs="0" />
+                <xs:element name="DonViTinh" type="xs:string" minOccurs="0" />
+                <xs:element name="SoLuongXuat" type="xs:int" minOccurs="0" />
+                <xs:element name="DonGiaXuat" type="xs:int" minOccurs="0" />
+                <xs:element name="ThanhTien" type="xs:int" minOccurs="0" />
+                <xs:element name="MaNhanVien" type="xs:string" minOccurs="0" />
+                <xs:element name="HoTenNV" type="xs:string" minOccurs="0" />
+                <xs:element name="DoanhThuBanHang" type="xs:string" minOccurs="0" />
+                <xs:element name="ChiPhiNhap" type="xs:string" minOccurs="0" />
+                <xs:element name="LoiNhuan" type="xs:string" minOccurs="0" />
+                <xs:element name="TungayDenngay" type="xs:string" minOccurs="0" />
+                <xs:element name="TongTientheoPhieu" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <DoanhThu>
+    <MaPhieuXuat>R43534534</MaPhieuXuat>
+    <NgayXuat>30/03/2015 8:22:27 PM</NgayXuat>
+    <MaSanPham>KT3001HS19</MaSanPham>
+    <TenSP>Giầy Nike ACE 2</TenSP>
+    <DonViTinh>Chiếc</DonViTinh>
+    <SoLuongXuat>20</SoLuongXuat>
+    <DonGiaXuat>3000</DonGiaXuat>
+    <ThanhTien>60000</ThanhTien>
+    <MaNhanVien />
+    <HoTenNV />
+    <DoanhThuBanHang>650,200</DoanhThuBanHang>
+    <ChiPhiNhap>1,247,984</ChiPhiNhap>
+    <LoiNhuan>-597,784</LoiNhuan>
+    <TungayDenngay>Từ 18/02/2015 đến 18/04/2015</TungayDenngay>
+    <TongTientheoPhieu>60,200</TongTientheoPhieu>
+  </DoanhThu>
+  <DoanhThu>
+    <MaPhieuXuat>R43534534</MaPhieuXuat>
+    <NgayXuat>30/03/2015 8:22:27 PM</NgayXuat>
+    <MaSanPham>SPP3</MaSanPham>
+    <TenSP>Coca</TenSP>
+    <DonViTinh>Cây</DonViTinh>
+    <SoLuongXuat>1</SoLuongXuat>
+    <DonGiaXuat>200</DonGiaXuat>
+    <ThanhTien>200</ThanhTien>
+    <MaNhanVien />
+    <HoTenNV />
+    <DoanhThuBanHang>650,200</DoanhThuBanHang>
+    <ChiPhiNhap>1,247,984</ChiPhiNhap>
+    <LoiNhuan>-597,784</LoiNhuan>
+    <TungayDenngay>Từ 18/02/2015 đến 18/04/2015</TungayDenngay>
+    <TongTientheoPhieu>60,200</TongTientheoPhieu>
+  </DoanhThu>
+  <DoanhThu>
+    <MaPhieuXuat>XP003</MaPhieuXuat>
+    <NgayXuat>08/03/2015 8:11:11 PM</NgayXuat>
+    <MaSanPham>MASPM00011</MaSanPham>
+    <TenSP>Nước hoa Romane 2</TenSP>
+    <DonViTinh>Cái</DonViTinh>
+    <SoLuongXuat>10</SoLuongXuat>
+    <DonGiaXuat>50000</DonGiaXuat>
+    <ThanhTien>500000</ThanhTien>
+    <MaNhanVien />
+    <HoTenNV />
+    <DoanhThuBanHang>650,200</DoanhThuBanHang>
+    <ChiPhiNhap>1,247,984</ChiPhiNhap>
+    <LoiNhuan>-597,784</LoiNhuan>
+    <TungayDenngay>Từ 18/02/2015 đến 18/04/2015</TungayDenngay>
+    <TongTientheoPhieu>590,000</TongTientheoPhieu>
+  </DoanhThu>
+  <DoanhThu>
+    <MaPhieuXuat>XP003</MaPhieuXuat>
+    <NgayXuat>08/03/2015 8:11:11 PM</NgayXuat>
+    <MaSanPham>SPP3</MaSanPham>
+    <TenSP>Coca</TenSP>
+    <DonViTinh>Cây</DonViTinh>
+    <SoLuongXuat>15</SoLuongXuat>
+    <DonGiaXuat>6000</DonGiaXuat>
+    <ThanhTien>90000</ThanhTien>
+    <MaNhanVien />
+    <HoTenNV />
+    <DoanhThuBanHang>650,200</DoanhThuBanHang>
+    <ChiPhiNhap>1,247,984</ChiPhiNhap>
+    <LoiNhuan>-597,784</LoiNhuan>
+    <TungayDenngay>Từ 18/02/2015 đến 18/04/2015</TungayDenngay>
+    <TongTientheoPhieu>590,000</TongTientheoPhieu>
+  </DoanhThu>
+</NewDataSet>

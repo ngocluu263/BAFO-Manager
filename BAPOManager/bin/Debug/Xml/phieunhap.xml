@@ -1,0 +1,91 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="PhieuNhapChiTiet" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="PhieuNhapChiTiet">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MaPhieuNhap" type="xs:string" minOccurs="0" />
+                <xs:element name="NgayNhap" type="xs:string" minOccurs="0" />
+                <xs:element name="GhiChu" type="xs:string" minOccurs="0" />
+                <xs:element name="MaNCC" type="xs:string" minOccurs="0" />
+                <xs:element name="TenNCC" type="xs:string" minOccurs="0" />
+                <xs:element name="MaSanPham" type="xs:string" minOccurs="0" />
+                <xs:element name="TenSP" type="xs:string" minOccurs="0" />
+                <xs:element name="DonViTinh" type="xs:string" minOccurs="0" />
+                <xs:element name="SoLuongNhap" type="xs:int" minOccurs="0" />
+                <xs:element name="DonGiaNhap" type="xs:int" minOccurs="0" />
+                <xs:element name="DiaChi" type="xs:string" minOccurs="0" />
+                <xs:element name="DienThoai" type="xs:string" minOccurs="0" />
+                <xs:element name="Fax" type="xs:string" minOccurs="0" />
+                <xs:element name="HoTenNV" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <PhieuNhapChiTiet>
+    <MaPhieuNhap>PHIEUNHAP002</MaPhieuNhap>
+    <NgayNhap>02/02/2015 9:34:28 PM</NgayNhap>
+    <GhiChu />
+    <MaNCC>3</MaNCC>
+    <TenNCC>Block Canet tea one</TenNCC>
+    <MaSanPham>KT3004HS4</MaSanPham>
+    <TenSP>Giày Vina DT2</TenSP>
+    <DonViTinh>Đôi</DonViTinh>
+    <SoLuongNhap>200</SoLuongNhap>
+    <DonGiaNhap>400000</DonGiaNhap>
+    <DiaChi>123456</DiaChi>
+    <DienThoai>123</DienThoai>
+    <Fax />
+  </PhieuNhapChiTiet>
+  <PhieuNhapChiTiet>
+    <MaPhieuNhap>PHIEUNHAP002</MaPhieuNhap>
+    <NgayNhap>02/02/2015 9:34:28 PM</NgayNhap>
+    <GhiChu />
+    <MaNCC>3</MaNCC>
+    <TenNCC>Block Canet tea one</TenNCC>
+    <MaSanPham>KT3004HS46</MaSanPham>
+    <TenSP>Giày Vina DT2 2</TenSP>
+    <DonViTinh>Đôi</DonViTinh>
+    <SoLuongNhap>100</SoLuongNhap>
+    <DonGiaNhap>400000</DonGiaNhap>
+    <DiaChi>123456</DiaChi>
+    <DienThoai>123</DienThoai>
+    <Fax />
+  </PhieuNhapChiTiet>
+  <PhieuNhapChiTiet>
+    <MaPhieuNhap>PHIEUNHAP002</MaPhieuNhap>
+    <NgayNhap>02/02/2015 9:34:28 PM</NgayNhap>
+    <GhiChu />
+    <MaNCC>3</MaNCC>
+    <TenNCC>Block Canet tea one</TenNCC>
+    <MaSanPham>MASPM00021</MaSanPham>
+    <TenSP>Áo Kaki Trung Quốc 2</TenSP>
+    <DonViTinh>Chiếc</DonViTinh>
+    <SoLuongNhap>100</SoLuongNhap>
+    <DonGiaNhap>5000</DonGiaNhap>
+    <DiaChi>123456</DiaChi>
+    <DienThoai>123</DienThoai>
+    <Fax />
+  </PhieuNhapChiTiet>
+  <PhieuNhapChiTiet>
+    <MaPhieuNhap>PHIEUNHAP002</MaPhieuNhap>
+    <NgayNhap>02/02/2015 9:34:28 PM</NgayNhap>
+    <GhiChu />
+    <MaNCC>3</MaNCC>
+    <TenNCC>Block Canet tea one</TenNCC>
+    <MaSanPham>MASPM0003</MaSanPham>
+    <TenSP>Áo Kaki Việt Nam</TenSP>
+    <DonViTinh>Hộp</DonViTinh>
+    <SoLuongNhap>100</SoLuongNhap>
+    <DonGiaNhap>600000</DonGiaNhap>
+    <DiaChi>123456</DiaChi>
+    <DienThoai>123</DienThoai>
+    <Fax />
+  </PhieuNhapChiTiet>
+</NewDataSet>
